@@ -1,0 +1,8 @@
+C:\git\FsWp7Library\FsWp7Library\bin\Debug\ProjectTemplates\WP7\FsWp7Lib.zip
+C:\git\FsWp7Library\FsWp7Library\bin\Debug\MicrosoftPublicLicense.txt
+C:\git\FsWp7Library\FsWp7Library\bin\Debug\FsWp7Library.vsix
+C:\git\FsWp7Library\FsWp7Library\bin\Debug\extension.vsixmanifest
+C:\git\FsWp7Library\FsWp7Library\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FsWp7Library\FsWp7Library\obj\Debug\FsWp7Library.dll
+C:\git\FsWp7Library\FsWp7Library\obj\Debug\FsWp7Library.pdb
+C:\git\FsWp7Library\FsWp7Library\obj\Debug\extension.vsixmanifest
